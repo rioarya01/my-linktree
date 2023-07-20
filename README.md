@@ -1,6 +1,6 @@
 ## My Profile Website 
 <div>
-  <img src="https://raw.githubusercontent.com/rioarya01/my-linktree/main/mockup-readme.png?token=GHSAT0AAAAAACFJMAKXEO2VE4L2AZKMNXW6ZFYC6CQ" width="600" />
+  <img src="https://github.com/rioarya01/my-linktree/blob/119e0b022bcfa3cb0af45a15262fdb0b4de06b83/mockup-readme.png" width="600" />
 </div>
 <br/>
 
